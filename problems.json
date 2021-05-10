@@ -1,0 +1,190 @@
+{
+    "kattisURL": "https://open.kattis.com/problems/",
+    "problems": [
+        {
+            "name": "R2",
+            "lang": "c",
+            "id": "r2"
+        },
+        {
+            "name": "Quadrant Selection",
+            "lang": "c",
+            "id": "quadrant"
+        },
+        {
+            "name": "Cold-puter Science",
+            "lang": "c",
+            "id": "cold"
+        },
+        {
+            "name": "FizzBuzz",
+            "lang": "c",
+            "id": "fizzbuzz"
+        },
+        {
+            "name": "Solving for Carrots",
+            "lang": "c",
+            "id": "carrots"
+        },
+        {
+            "name": "Frosting on the Cake",
+            "lang": "c",
+            "id": "frosting"
+        },
+        {
+            "name": "Simplicity",
+            "lang": "c",
+            "id": "simplicity"
+        },
+        {
+            "name": "Astrological Sign",
+            "lang": "c",
+            "id": "astrologicalsign"
+        },
+        {
+            "name": "Nine Knights",
+            "lang": "c",
+            "id": "nineknights"
+        },
+        {
+            "name": "Mjehuric",
+            "lang": "c",
+            "id": "mjehuric"
+        },
+        {
+            "name": "Autori",
+            "lang": "c",
+            "id": "autori"
+        },
+        {
+            "name": "Checkmate in One",
+            "lang": "py",
+            "id": "checkmateinone"
+        },
+        {
+            "name": "Veci",
+            "lang": "py",
+            "id": "veci"
+        },
+        {
+            "name": "Planting Trees",
+            "lang": "c",
+            "id": "plantingtrees"
+        },
+        {
+            "name": "Falling Apart",
+            "lang": "c",
+            "id": "fallingapart"
+        },
+        {
+            "name": "Grand Combat Delusion",
+            "lang": "py",
+            "id": "grandcombatdelusion",
+            "url": "https://hi.kattis.com/problems/hi."
+        },
+        {
+            "name": "H-Index",
+            "lang": "py",
+            "id": "hindex"
+        },
+        {
+            "name": "H-Index",
+            "lang": "c",
+            "id": "hindex"
+        },
+        {
+            "name": "Guess the Number",
+            "lang": "py",
+            "id": "guess"
+        },
+        {
+            "name": "Getting Gold",
+            "lang": "py",
+            "id": "gold"
+        },
+        {
+            "name": "Distinctive Character",
+            "lang": "py",
+            "id": "distinctivecharacter"
+        },
+        {
+            "name": "HKIO",
+            "lang": "py",
+            "id": "hkio",
+            "url": "https://hi.kattis.com/problems/hi."
+        },
+        {
+            "name": "Reiknirit",
+            "lang": "py",
+            "id": "reiknirit",
+            "url": "https://hi.kattis.com/problems/fkhi19."
+        },
+        {
+            "name": "Single source shortest path, non-negative weights",
+            "lang": "py",
+            "id": "shortestpath1"
+        },
+        {
+            "name": "Digi Comp II",
+            "lang": "py",
+            "id": "digicomp2"
+        },
+        {
+            "name": "All Pairs Shortest Path",
+            "lang": "py",
+            "id": "allpairspath"
+        },
+        {
+            "name": "Meow Factor",
+            "lang": "py",
+            "id": "meowfactor"
+        },
+        {
+            "name": "Diagonal Cut",
+            "lang": "c",
+            "id": "diagonalcut"
+        },
+        {
+            "name": "Dividing Sequence",
+            "lang": "py",
+            "id": "sequence"
+        },
+        {
+            "name": "Ocean's Anti-11",
+            "lang": "c",
+            "id": "anti11"
+        },
+        {
+            "name": "Character Development",
+            "lang": "py",
+            "id": "character"
+        },
+        {
+            "name": "Immortal Porpoises",
+            "lang": "py",
+            "id": "porpoises"
+        },
+        {
+            "name": "Piece of Cake!",
+            "lang": "c",
+            "id": "pieceofcake2"
+        },
+        {
+            "name": "Line Segment Distance",
+            "lang": "c",
+            "id": "segmentdistance"
+        },
+        {
+            "name": "Töflur",
+            "lang": "py",
+            "id": "toflur",
+            "url": "https://hi.kattis.com/problems/"
+        },
+        {
+            "name": "Zyxab",
+            "lang": "py",
+            "id": "zyxab",
+            "url": "https://hi.kattis.com/problems/"
+        }
+    ]
+}
